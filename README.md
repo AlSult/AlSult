@@ -22,7 +22,7 @@ Hi there! I'm passionate about turning data into insights and building intellige
 ## 📫 Contact me  
 To reach me please contact me on LinkedIn!
 <p align="left">
-<a href="www.linkedin.com/in/aliia-sultanova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fghkjb" height="30" width="40" /></a>  
+<a href="https://linkedin.com/in/www.linkedin.com/in/aliia-sultanova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aliia-sultanova" height="30" width="40" /></a> 
 </p>
 
 📌 Feel free to check out my repositories and collaborate on projects! 🚀  
