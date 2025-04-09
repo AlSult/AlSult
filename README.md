@@ -17,7 +17,7 @@ Hi there! I'm passionate about turning data into insights and building intellige
 - **Data Tools:** Pandas, NumPy, Matplotlib, Seaborn  
 - **Big Data & Cloud:** Spark, AWS, Google Cloud, Hadoop  
 - **Databases:** PostgreSQL, MongoDB, MySQL  
-- **BI & Visualization:** Tableau, Power BI 
+- **BI & Visualization:** Power BI 
 
 ## 📫 Contact me  
 To reach me please contact me on LinkedIn!
